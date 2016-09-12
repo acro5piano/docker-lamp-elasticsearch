@@ -8,7 +8,7 @@ web:
     - memcached
     - elasticsearch
   volumes:
-    - ./src/yourgreatapp:/var/www/yourgreatapp/public
+    - ./src/yourgreatapp/public:/var/www/yourgreatapp/public
 
 db:
   build: ./db
