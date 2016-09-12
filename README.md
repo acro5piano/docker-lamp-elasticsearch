@@ -13,7 +13,7 @@ docker-compose up
 
 2. It's done!
 
-Go to http://localhost:8000/ and you can see PHP works.
+Go to http://localhost:3000/ and you can see PHP works.
 
 3. Useful commands
 
